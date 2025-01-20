@@ -1,0 +1,6 @@
+A1 坤制单位换算器 https://f.feiliupan.com/zhi-lian/ca1ef/0/7e8-b-a/my0m2/KunCalc.py KunCalc
+A2 BG音乐播放器 https://f.feiliupan.com/zhi-lian/b61f1/0/7e8-b-a/34h4i/BGMusicPlayer.py BGMusicPlayer
+A3 GUI计算器 https://f.feiliupan.com/zhi-lian/d81f2/0/7e8-b-a/71ta7/calc.py GUICalc
+B1 EFCH剑 https://f.feiliupan.com/zhi-lian/6820c/0/7e8-b-e/w5d8k/EFCHSword.exe EFCHSword
+C1 BG音乐制作器 https://f.feiliupan.com/zhi-lian/c3208/0/7e8-b-e/i3pwm/music.py BGMusicMaker
+C2 体验pymm远古版 https://f.feiliupan.com/zhi-lian/f920b/0/7e8-b-e/uwzza/pyminusminus.py pymm

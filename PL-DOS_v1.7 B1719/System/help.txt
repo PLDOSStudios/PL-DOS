@@ -1,0 +1,58 @@
+PL-DOS命令
+=========================================
+about         关于PL-DOS的版本
+autologin     自动登录
+card          卡牌游戏
+check         检查软件
+cls           清屏
+dir           扫盘
+exit          退出
+explorer      资源管理器
+help          查看所有指令
+laoliucard    老六纸牌
+minesweeper   打开扫雷
+musicmaker    打开BG-DOS音乐制作器
+notepad       记事本
+restart       重新启动
+store         打开应用商店
+tictactoe     打开井字棋游戏
+tree          打印当前目录下的树形结构图
+users         显示所有用户和权限
+shan          猜单词
+antivirus     杀毒
+download      下崽器
+web           打开网页
+sb            赌博
+snake         贪吃蛇
+unpack        zip解压/压缩
+pls           Powerful_Script
+
+PL-DOS硬核cmd命令
+=========================================
+Cd              显示当前目录名
+Cls             清屏
+Cp              复制文件
+Date            打印当前日期
+Dir             扫盘
+Help            指令说明
+Md              新建文件夹
+Mv              移动文件
+Rd              移除目录
+Time            输出时间
+Title           设置窗口标题
+Tree            列出目录结构树图
+Type            查看文件内容
+Vol             显示磁盘卷标和序列号
+
+PymmMusic命令
+=========================================
+start           开始
+@----------     开头设置
+|
+|----set
+|    |----default 设为默认
+|    |----speed 设置速度
+|
+|----pymm
+     |----save
+          |-----after 演奏完后保存

@@ -1,0 +1,8 @@
+enter n
+list b
+loop n a
+enter a
+add a
+endloop a
+loop n a
+loop n b

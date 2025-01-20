@@ -1,0 +1,12 @@
+PPPPPPPPPPPPPPPP      LL                           DDDDDDDDDDDDD              00000000000           SSSSSSSSSS
+PP             PP     LL                           DD           DD          000000000000000       SSSSSSSSSSSSSS
+PP             PP     LL                           DD            DD        000           000     SSSS
+PP             PP     LL                           DD             DD       000           000      SSS
+PP             PP     LL                           DD             DD       000           000      SSS
+PPPPPPPPPPPPPPPP      LL            __________     DD             DD       000           000      SSSSSSSSSSSSS
+PP                    LL            __________     DD             DD       000           000                  SSS
+PP                    LL                           DD            DD        000           000                  SSS
+PP                    LL                           DD           DD          000000000000000       SSSSSSSSSSSSSSS
+PP                    LLLLLLLLLLLLLLLLL            DDDDDDDDDDDDD              00000000000         SSSSSSSSSSSSS
+
+
